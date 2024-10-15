@@ -1,8 +1,8 @@
 [package]
-name = "leetcode-algorithms-rust"
+name = "leetcode-rust"
 version = "0.1.0"
 authors = ["saidatta"]
-edition = "2024"
+edition = "2018"
 
 [dependencies]
 reqwest = "0.9.8"
